@@ -1,0 +1,17 @@
+# 🛍️ Sales Performance Analysis
+
+This project analyzes a small retail dataset to extract key business insights.
+
+### **Objectives**
+- Identify top-selling products  
+- Calculate total revenue  
+- Analyze performance by region  
+
+### **Tools Used**
+- Python  
+- Pandas  
+- Matplotlib  
+
+### **Files**
+- `dataset.csv` — sample dataset  
+- `analysis.ipynb` — main analysis notebook
